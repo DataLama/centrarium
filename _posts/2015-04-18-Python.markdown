@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dummy Post"
+title:  "한승현 바보"
 date:   2015-04-18 08:43:59
 author: Ben Centra
 categories: Python
