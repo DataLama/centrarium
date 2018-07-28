@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: 
-subtitle: "Data Science Reviews"
+title: Data Science Reviews
+subtitle: "Just Study, Think and Review"
 email: kdw4521@gmail.com
 name: Dongwook Kim
 description: >
