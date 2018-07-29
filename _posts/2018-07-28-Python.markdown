@@ -1,9 +1,0 @@
----
-layout: post
-title:  "파이썬"
-date:   2018-07-28 13:08:39.250607
-author: datalama
-categories: "Python Programming"
----
-
-This is python
