@@ -16,6 +16,15 @@ tags: SNA
 
 '쾨니스베르그의 다리'문제를 통해 다음과 같은 네트워크 이론의 가장 핵심적인 아이디어를 알 수 있습니다.
 
+---
+**NOTE**
+
+It works with almost all markdown flavours (the below blank line matters).
+
+---
+
+
+
 <fieldset>
-  <h6> 네트워크를 통해 복잡한 현상들을 간단하게 표현(represent)함으로써 
+  <h6>네트워크를 통해 복잡한 현상들을 간단하게 표현(represent)함으로써</h6>
 </fieldset>
