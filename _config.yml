@@ -51,7 +51,7 @@ descriptions:
   - cat: "Python_Programming"
     desc: "Reviews of all about python programming"
 
-  - cat: "Social_Network_Analysis"
+  - cat: "Social-Network-Analysis"
     desc: "Reviews of all about Social Network Analysis and some Network Thoery"
     
   - cat: Deeplearning 
