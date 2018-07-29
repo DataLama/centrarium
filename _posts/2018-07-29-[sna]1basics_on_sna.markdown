@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "네트워크 이론의 기초"
-date:   
+date: 2018-07-28 13:08:39.250607
 author: datalama
 categories: Social Network Analysis
 tags: SNA
-cover: ""
 ---
 
 일반적으로 네트워크 이론의 시작은 오일러의 ['쾨니스베르그의 다리'](https://ko.wikipedia.org/wiki/%EC%BE%A8%EB%8B%88%ED%9E%88%EC%8A%A4%EB%B2%A0%EB%A5%B4%ED%81%AC%EC%9D%98_%EB%8B%A4%EB%A6%AC_%EB%AC%B8%EC%A0%9C)
