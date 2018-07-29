@@ -48,12 +48,16 @@ disqus_shortname: datalama
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Python
+  - cat: Python Programming
     desc: "Reviews of all about python programming"
 
-  - cat: Network Analysis 
-    desc: "Reviews of all about Network Analysis"
-
+  - cat: Social Network Analysis 
+    desc: "Reviews of all about Social Network Analysis and some Network Thoery"
+    
+  - cat: Deeplearning 
+    desc: "Reviews of all about DeepLearning"
+   
+   
 # Social icons and sharing options
 #
 # Social settings are used in two places:
