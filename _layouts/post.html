@@ -30,12 +30,10 @@ layout: default
 </section>
 
 <article class="post-content">
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
   {{ content }}
 </article>
 
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 	
 {% if site.jekyll-archives %}
 {% if page.tags.size > 0 %}
@@ -121,6 +119,7 @@ layout: default
 		</span>
 	</section>
 {% endif %}
+
 
 {% if site.disqus_shortname %}
 {% unless page.disqus_disabled %}
