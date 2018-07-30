@@ -4,7 +4,6 @@ title: "네트워크 이론의 기초"
 date: 2018-07-28 13:08:39.250607
 author: datalama
 categories: "Social-Network-Analysis"
-custom_js : math
 tags: SNA
 ---
 
@@ -19,5 +18,7 @@ $$cc$$
 '쾨니스베르그의 다리'문제를 통해 다음과 같은 네트워크 이론의 가장 핵심적인 아이디어를 알 수 있습니다.
 
 __*네트워크를 통해 복잡한 현상들을 간단하게 표현(represent)함으로써*__
+
+custom_js : math
 
 
