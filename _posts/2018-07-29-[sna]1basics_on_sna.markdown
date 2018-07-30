@@ -4,7 +4,6 @@ title: "네트워크 이론의 기초"
 date: 2018-07-28 13:08:39.250607
 author: datalama
 categories: "Social-Network-Analysis"
-custom_js : math
 tags: SNA
 ---
 
