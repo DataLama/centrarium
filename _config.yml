@@ -7,7 +7,6 @@ gems:
 
 exclude:
   - "/vendor/"
-  - ["*.pynb"]
 
 # Site settings
 title: Data Science Reviews
