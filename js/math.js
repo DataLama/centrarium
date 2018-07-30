@@ -1,4 +1,19 @@
-var MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+(function () {
+  var head = document.getElementsByTagName("head")[0], script;
+  script = document.createElement("script");
+  script.type = "text/x-mathjax-config";
+  script[(window.opera ? "innerHTML" : "text")] =
+    "MathJax.Hub.Config({\n" +
+    "  tex2jax: { inlineMath: [['$','$'], ['\\\\(','\\\\)']] }\n" +
+    "});";
+  head.appendChild(script);
+  script = document.createElement("script");
+  script.type = "text/javascript";
+  script.src  = "https://example.com/MathJax.js?config=TeX-AMS-MML_CHTML";
+  head.appendChild(script);
+})();
+
+
 
 (function () {
   var newMathJax = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js';
