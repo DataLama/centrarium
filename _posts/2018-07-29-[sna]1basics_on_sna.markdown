@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "네트워크 이론의 기초"
-date: 2018-07-28 13:08:39.250607
+date: 2018-07-28
 author: datalama
 categories: "Social-Network-Analysis"
 tags: SNA
