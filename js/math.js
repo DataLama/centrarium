@@ -9,7 +9,7 @@
   head.appendChild(script);
   script = document.createElement("script");
   script.type = "text/javascript";
-  script.src  = "https://example.com/MathJax.js?config=TeX-AMS-MML_CHTML";
+  script.src  = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_CHTML";
   head.appendChild(script);
 })();
 
