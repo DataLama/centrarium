@@ -19,6 +19,7 @@ Issues
 <br>
 그럼에도 잘 찾아보니... 다음의 MathJax 스크립트를 넣으면 된다는 사실을 알게 되었다.
 <br>
+
 ```html
 <script type="text/x-mathjax-config">
 	MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
