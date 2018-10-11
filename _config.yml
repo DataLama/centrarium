@@ -48,14 +48,14 @@ disqus_shortname: datalama
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: "Python-Programming"
-    desc: "Reviews of all about python programming"
+  - cat: "The-Reviews"
+    desc: "Reviews of all about THINGS"
 
-  - cat: "Social-Network-Analysis"
-    desc: "Reviews of all about Social Network Analysis and some Network Thoery"
+  - cat: "MA-ST"
+    desc: "Reviews of all about Math and Statistics"
     
-  - cat: Deeplearning 
-    desc: "Reviews of all about DeepLearning"
+  - cat: "ML" 
+    desc: "Reviews of all about Machine Learning"
    
    
 # Social icons and sharing options
