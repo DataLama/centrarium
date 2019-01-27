@@ -48,16 +48,15 @@ disqus_shortname: datalama
 
 # Category descriptions (for archive pages)
 descriptions:
+  - cat: "python" 
+    desc: "Review of all python programming for Data science"
+
+  - cat: "tensorflow" 
+    desc: "Reviews of all about tensorflow from Low to High."
+
   - cat: "The-Reviews"
     desc: "Reviews of all about THINGS"
 
-  - cat: "MA-ST"
-    desc: "Reviews of all about Math and Statistics"
-    
-  - cat: "ML" 
-    desc: "Reviews of all about Machine Learning"
-   
-   
 # Social icons and sharing options
 #
 # Social settings are used in two places:
